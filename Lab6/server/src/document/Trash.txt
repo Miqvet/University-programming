@@ -1,0 +1,5 @@
+student-7/lab5/src/document/InputDocument.xml
+student-7/lab5/src/document/script1
+student-7/lab5/src/document/script2
+student-7/lab5/src/document/execute_script.txt
+execute_script student-7/lab5/src/document/execute_script.txt

@@ -1,0 +1,2 @@
+info
+execute_script student-7/lab5/src/document/execute_script.txt
